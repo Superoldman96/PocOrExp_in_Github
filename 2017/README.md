@@ -119,9 +119,9 @@
 
 - [https://github.com/own2pwn/blueborne-CVE-2017-1000251-POC](https://github.com/own2pwn/blueborne-CVE-2017-1000251-POC) :  ![starts](https://img.shields.io/github/stars/own2pwn/blueborne-CVE-2017-1000251-POC.svg) ![forks](https://img.shields.io/github/forks/own2pwn/blueborne-CVE-2017-1000251-POC.svg)
 
-- [https://github.com/istanescu/CVE-2017-1000251_Exploit](https://github.com/istanescu/CVE-2017-1000251_Exploit) :  ![starts](https://img.shields.io/github/stars/istanescu/CVE-2017-1000251_Exploit.svg) ![forks](https://img.shields.io/github/forks/istanescu/CVE-2017-1000251_Exploit.svg)
-
 - [https://github.com/tlatkdgus1/blueborne-CVE-2017-1000251](https://github.com/tlatkdgus1/blueborne-CVE-2017-1000251) :  ![starts](https://img.shields.io/github/stars/tlatkdgus1/blueborne-CVE-2017-1000251.svg) ![forks](https://img.shields.io/github/forks/tlatkdgus1/blueborne-CVE-2017-1000251.svg)
+
+- [https://github.com/istanescu/CVE-2017-1000251_Exploit](https://github.com/istanescu/CVE-2017-1000251_Exploit) :  ![starts](https://img.shields.io/github/stars/istanescu/CVE-2017-1000251_Exploit.svg) ![forks](https://img.shields.io/github/forks/istanescu/CVE-2017-1000251_Exploit.svg)
 
 ## CVE-2017-1000250
  All versions of the SDP server in BlueZ 5.46 and earlier are vulnerable to an information disclosure vulnerability which allows remote attackers to obtain sensitive information from the bluetoothd process memory. This vulnerability lies in the processing of SDP search attribute requests.
@@ -757,9 +757,9 @@
 
 
 
-- [https://github.com/CQ-Tools/CVE-2017-16107-fixed](https://github.com/CQ-Tools/CVE-2017-16107-fixed) :  ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-16107-fixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-16107-fixed.svg)
-
 - [https://github.com/CQ-Tools/CVE-2017-16107-unfixed](https://github.com/CQ-Tools/CVE-2017-16107-unfixed) :  ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-16107-unfixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-16107-unfixed.svg)
+
+- [https://github.com/CQ-Tools/CVE-2017-16107-fixed](https://github.com/CQ-Tools/CVE-2017-16107-fixed) :  ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-16107-fixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-16107-fixed.svg)
 
 - [https://github.com/ossf-cve-benchmark/CVE-2017-16107](https://github.com/ossf-cve-benchmark/CVE-2017-16107) :  ![starts](https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2017-16107.svg) ![forks](https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2017-16107.svg)
 
@@ -1247,6 +1247,13 @@
 
 - [https://github.com/r1b/CVE-2017-13089](https://github.com/r1b/CVE-2017-13089) :  ![starts](https://img.shields.io/github/stars/r1b/CVE-2017-13089.svg) ![forks](https://img.shields.io/github/forks/r1b/CVE-2017-13089.svg)
 
+## CVE-2017-13077
+ Wi-Fi Protected Access (WPA and WPA2) allows reinstallation of the Pairwise Transient Key (PTK) Temporal Key (TK) during the four-way handshake, allowing an attacker within radio range to replay, decrypt, or spoof frames.
+
+
+
+- [https://github.com/mugheeskhan5/wpa2-zero-hardware-krack-lab](https://github.com/mugheeskhan5/wpa2-zero-hardware-krack-lab) :  ![starts](https://img.shields.io/github/stars/mugheeskhan5/wpa2-zero-hardware-krack-lab.svg) ![forks](https://img.shields.io/github/forks/mugheeskhan5/wpa2-zero-hardware-krack-lab.svg)
+
 ## CVE-2017-12945
  Insufficient validation of user-supplied input for the Solstice Pod before 2.8.4 networking configuration enables authenticated attackers to execute arbitrary commands as root.
 
@@ -1525,17 +1532,17 @@
 
 - [https://github.com/j0lama/CVE-2017-11882](https://github.com/j0lama/CVE-2017-11882) :  ![starts](https://img.shields.io/github/stars/j0lama/CVE-2017-11882.svg) ![forks](https://img.shields.io/github/forks/j0lama/CVE-2017-11882.svg)
 
-- [https://github.com/HaoJame/CVE-2017-11882](https://github.com/HaoJame/CVE-2017-11882) :  ![starts](https://img.shields.io/github/stars/HaoJame/CVE-2017-11882.svg) ![forks](https://img.shields.io/github/forks/HaoJame/CVE-2017-11882.svg)
-
 - [https://github.com/likekabin/CVE-2017-11882](https://github.com/likekabin/CVE-2017-11882) :  ![starts](https://img.shields.io/github/stars/likekabin/CVE-2017-11882.svg) ![forks](https://img.shields.io/github/forks/likekabin/CVE-2017-11882.svg)
 
+- [https://github.com/HaoJame/CVE-2017-11882](https://github.com/HaoJame/CVE-2017-11882) :  ![starts](https://img.shields.io/github/stars/HaoJame/CVE-2017-11882.svg) ![forks](https://img.shields.io/github/forks/HaoJame/CVE-2017-11882.svg)
+
 - [https://github.com/pixelofapicture/001-Malware-Analysis-CVE-2017-11882](https://github.com/pixelofapicture/001-Malware-Analysis-CVE-2017-11882) :  ![starts](https://img.shields.io/github/stars/pixelofapicture/001-Malware-Analysis-CVE-2017-11882.svg) ![forks](https://img.shields.io/github/forks/pixelofapicture/001-Malware-Analysis-CVE-2017-11882.svg)
+
+- [https://github.com/chanbin/CVE-2017-11882](https://github.com/chanbin/CVE-2017-11882) :  ![starts](https://img.shields.io/github/stars/chanbin/CVE-2017-11882.svg) ![forks](https://img.shields.io/github/forks/chanbin/CVE-2017-11882.svg)
 
 - [https://github.com/ActorExpose/CVE-2017-11882](https://github.com/ActorExpose/CVE-2017-11882) :  ![starts](https://img.shields.io/github/stars/ActorExpose/CVE-2017-11882.svg) ![forks](https://img.shields.io/github/forks/ActorExpose/CVE-2017-11882.svg)
 
 - [https://github.com/nhuynhuy/cve-2017-11882](https://github.com/nhuynhuy/cve-2017-11882) :  ![starts](https://img.shields.io/github/stars/nhuynhuy/cve-2017-11882.svg) ![forks](https://img.shields.io/github/forks/nhuynhuy/cve-2017-11882.svg)
-
-- [https://github.com/chanbin/CVE-2017-11882](https://github.com/chanbin/CVE-2017-11882) :  ![starts](https://img.shields.io/github/stars/chanbin/CVE-2017-11882.svg) ![forks](https://img.shields.io/github/forks/chanbin/CVE-2017-11882.svg)
 
 - [https://github.com/Grey-Li/CVE-2017-11882](https://github.com/Grey-Li/CVE-2017-11882) :  ![starts](https://img.shields.io/github/stars/Grey-Li/CVE-2017-11882.svg) ![forks](https://img.shields.io/github/forks/Grey-Li/CVE-2017-11882.svg)
 
@@ -3331,11 +3338,11 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 
 - [https://github.com/injcristianrojas/cve-2017-5638](https://github.com/injcristianrojas/cve-2017-5638) :  ![starts](https://img.shields.io/github/stars/injcristianrojas/cve-2017-5638.svg) ![forks](https://img.shields.io/github/forks/injcristianrojas/cve-2017-5638.svg)
 
-- [https://github.com/Dungsocool/CVE-2017-5638](https://github.com/Dungsocool/CVE-2017-5638) :  ![starts](https://img.shields.io/github/stars/Dungsocool/CVE-2017-5638.svg) ![forks](https://img.shields.io/github/forks/Dungsocool/CVE-2017-5638.svg)
-
 - [https://github.com/bongbongco/cve-2017-5638](https://github.com/bongbongco/cve-2017-5638) :  ![starts](https://img.shields.io/github/stars/bongbongco/cve-2017-5638.svg) ![forks](https://img.shields.io/github/forks/bongbongco/cve-2017-5638.svg)
 
 - [https://github.com/Xhendos/CVE-2017-5638](https://github.com/Xhendos/CVE-2017-5638) :  ![starts](https://img.shields.io/github/stars/Xhendos/CVE-2017-5638.svg) ![forks](https://img.shields.io/github/forks/Xhendos/CVE-2017-5638.svg)
+
+- [https://github.com/Dungsocool/CVE-2017-5638](https://github.com/Dungsocool/CVE-2017-5638) :  ![starts](https://img.shields.io/github/stars/Dungsocool/CVE-2017-5638.svg) ![forks](https://img.shields.io/github/forks/Dungsocool/CVE-2017-5638.svg)
 
 - [https://github.com/mcassano/cve-2017-5638](https://github.com/mcassano/cve-2017-5638) :  ![starts](https://img.shields.io/github/stars/mcassano/cve-2017-5638.svg) ![forks](https://img.shields.io/github/forks/mcassano/cve-2017-5638.svg)
 
@@ -4039,6 +4046,8 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 - [https://github.com/kimocoder/eternalblue](https://github.com/kimocoder/eternalblue) :  ![starts](https://img.shields.io/github/stars/kimocoder/eternalblue.svg) ![forks](https://img.shields.io/github/forks/kimocoder/eternalblue.svg)
 
 - [https://github.com/MedX267/EternalBlue-Vulnerability-Scanner](https://github.com/MedX267/EternalBlue-Vulnerability-Scanner) :  ![starts](https://img.shields.io/github/stars/MedX267/EternalBlue-Vulnerability-Scanner.svg) ![forks](https://img.shields.io/github/forks/MedX267/EternalBlue-Vulnerability-Scanner.svg)
+
+- [https://github.com/0xBlackash/CVE-2017-0144](https://github.com/0xBlackash/CVE-2017-0144) :  ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2017-0144.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2017-0144.svg)
 
 - [https://github.com/quynhold/Detect-CVE-2017-0144-attack](https://github.com/quynhold/Detect-CVE-2017-0144-attack) :  ![starts](https://img.shields.io/github/stars/quynhold/Detect-CVE-2017-0144-attack.svg) ![forks](https://img.shields.io/github/forks/quynhold/Detect-CVE-2017-0144-attack.svg)
 
