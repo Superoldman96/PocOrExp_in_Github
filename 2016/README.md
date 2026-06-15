@@ -41,8 +41,6 @@
 
 - [https://github.com/ImBIOS/lab-cve-2016-15042](https://github.com/ImBIOS/lab-cve-2016-15042) :  ![starts](https://img.shields.io/github/stars/ImBIOS/lab-cve-2016-15042.svg) ![forks](https://img.shields.io/github/forks/ImBIOS/lab-cve-2016-15042.svg)
 
-- [https://github.com/Aditya43621/lab-cve-2016-15042](https://github.com/Aditya43621/lab-cve-2016-15042) :  ![starts](https://img.shields.io/github/stars/Aditya43621/lab-cve-2016-15042.svg) ![forks](https://img.shields.io/github/forks/Aditya43621/lab-cve-2016-15042.svg)
-
 ## CVE-2016-15041
  The MainWP Dashboard – The Private WordPress Manager for Multiple Website Maintenance plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the ‘mwp_setup_purchase_username’ parameter in versions up to, and including, 3.1.2 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 
@@ -961,9 +959,9 @@
 
 - [https://github.com/xpcmdshell/derpyc0w](https://github.com/xpcmdshell/derpyc0w) :  ![starts](https://img.shields.io/github/stars/xpcmdshell/derpyc0w.svg) ![forks](https://img.shields.io/github/forks/xpcmdshell/derpyc0w.svg)
 
-- [https://github.com/acidburnmi/CVE-2016-5195-master](https://github.com/acidburnmi/CVE-2016-5195-master) :  ![starts](https://img.shields.io/github/stars/acidburnmi/CVE-2016-5195-master.svg) ![forks](https://img.shields.io/github/forks/acidburnmi/CVE-2016-5195-master.svg)
-
 - [https://github.com/sandeeparth07/CVE-2016_5195-vulnarability](https://github.com/sandeeparth07/CVE-2016_5195-vulnarability) :  ![starts](https://img.shields.io/github/stars/sandeeparth07/CVE-2016_5195-vulnarability.svg) ![forks](https://img.shields.io/github/forks/sandeeparth07/CVE-2016_5195-vulnarability.svg)
+
+- [https://github.com/acidburnmi/CVE-2016-5195-master](https://github.com/acidburnmi/CVE-2016-5195-master) :  ![starts](https://img.shields.io/github/stars/acidburnmi/CVE-2016-5195-master.svg) ![forks](https://img.shields.io/github/forks/acidburnmi/CVE-2016-5195-master.svg)
 
 - [https://github.com/ramahmdr/dirtycow](https://github.com/ramahmdr/dirtycow) :  ![starts](https://img.shields.io/github/stars/ramahmdr/dirtycow.svg) ![forks](https://img.shields.io/github/forks/ramahmdr/dirtycow.svg)
 
