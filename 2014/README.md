@@ -331,9 +331,9 @@
 
 - [https://github.com/npm/ansible-bashpocalypse](https://github.com/npm/ansible-bashpocalypse) :  ![starts](https://img.shields.io/github/stars/npm/ansible-bashpocalypse.svg) ![forks](https://img.shields.io/github/forks/npm/ansible-bashpocalypse.svg)
 
-- [https://github.com/zalalov/CVE-2014-6271](https://github.com/zalalov/CVE-2014-6271) :  ![starts](https://img.shields.io/github/stars/zalalov/CVE-2014-6271.svg) ![forks](https://img.shields.io/github/forks/zalalov/CVE-2014-6271.svg)
-
 - [https://github.com/akr3ch/CVE-2014-6271](https://github.com/akr3ch/CVE-2014-6271) :  ![starts](https://img.shields.io/github/stars/akr3ch/CVE-2014-6271.svg) ![forks](https://img.shields.io/github/forks/akr3ch/CVE-2014-6271.svg)
+
+- [https://github.com/zalalov/CVE-2014-6271](https://github.com/zalalov/CVE-2014-6271) :  ![starts](https://img.shields.io/github/stars/zalalov/CVE-2014-6271.svg) ![forks](https://img.shields.io/github/forks/zalalov/CVE-2014-6271.svg)
 
 - [https://github.com/ksang/shellshock](https://github.com/ksang/shellshock) :  ![starts](https://img.shields.io/github/stars/ksang/shellshock.svg) ![forks](https://img.shields.io/github/forks/ksang/shellshock.svg)
 
@@ -399,9 +399,9 @@
 
 - [https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271-Shellshock](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271-Shellshock) :  ![starts](https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271-Shellshock.svg) ![forks](https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271-Shellshock.svg)
 
-- [https://github.com/moften/CVE-2014-6271](https://github.com/moften/CVE-2014-6271) :  ![starts](https://img.shields.io/github/stars/moften/CVE-2014-6271.svg) ![forks](https://img.shields.io/github/forks/moften/CVE-2014-6271.svg)
-
 - [https://github.com/knightc0de/Shellshock_vuln_Exploit](https://github.com/knightc0de/Shellshock_vuln_Exploit) :  ![starts](https://img.shields.io/github/stars/knightc0de/Shellshock_vuln_Exploit.svg) ![forks](https://img.shields.io/github/forks/knightc0de/Shellshock_vuln_Exploit.svg)
+
+- [https://github.com/moften/CVE-2014-6271](https://github.com/moften/CVE-2014-6271) :  ![starts](https://img.shields.io/github/stars/moften/CVE-2014-6271.svg) ![forks](https://img.shields.io/github/forks/moften/CVE-2014-6271.svg)
 
 - [https://github.com/mritunjay-k/CVE-2014-6271](https://github.com/mritunjay-k/CVE-2014-6271) :  ![starts](https://img.shields.io/github/stars/mritunjay-k/CVE-2014-6271.svg) ![forks](https://img.shields.io/github/forks/mritunjay-k/CVE-2014-6271.svg)
 
@@ -502,8 +502,6 @@
 - [https://github.com/HevenTafese/Penetration-Testing-Walkthrough-Hacksudo-Thor](https://github.com/HevenTafese/Penetration-Testing-Walkthrough-Hacksudo-Thor) :  ![starts](https://img.shields.io/github/stars/HevenTafese/Penetration-Testing-Walkthrough-Hacksudo-Thor.svg) ![forks](https://img.shields.io/github/forks/HevenTafese/Penetration-Testing-Walkthrough-Hacksudo-Thor.svg)
 
 - [https://github.com/JohnRyk/ICMPShock3](https://github.com/JohnRyk/ICMPShock3) :  ![starts](https://img.shields.io/github/stars/JohnRyk/ICMPShock3.svg) ![forks](https://img.shields.io/github/forks/JohnRyk/ICMPShock3.svg)
-
-- [https://github.com/NamiKaze02/Shellshock](https://github.com/NamiKaze02/Shellshock) :  ![starts](https://img.shields.io/github/stars/NamiKaze02/Shellshock.svg) ![forks](https://img.shields.io/github/forks/NamiKaze02/Shellshock.svg)
 
 ## CVE-2014-5460
  Unrestricted file upload vulnerability in the Tribulant Slideshow Gallery plugin before 1.4.7 for WordPress allows remote authenticated users to execute arbitrary code by uploading a PHP file, then accessing it via a direct request to the file in wp-content/uploads/slideshow-gallery/.
@@ -1210,9 +1208,9 @@
 
 - [https://github.com/xanas/heartbleed.py](https://github.com/xanas/heartbleed.py) :  ![starts](https://img.shields.io/github/stars/xanas/heartbleed.py.svg) ![forks](https://img.shields.io/github/forks/xanas/heartbleed.py.svg)
 
-- [https://github.com/caiqiqi/OpenSSL-HeartBleed-CVE-2014-0160-PoC](https://github.com/caiqiqi/OpenSSL-HeartBleed-CVE-2014-0160-PoC) :  ![starts](https://img.shields.io/github/stars/caiqiqi/OpenSSL-HeartBleed-CVE-2014-0160-PoC.svg) ![forks](https://img.shields.io/github/forks/caiqiqi/OpenSSL-HeartBleed-CVE-2014-0160-PoC.svg)
-
 - [https://github.com/GeeksXtreme/ssl-heartbleed.nse](https://github.com/GeeksXtreme/ssl-heartbleed.nse) :  ![starts](https://img.shields.io/github/stars/GeeksXtreme/ssl-heartbleed.nse.svg) ![forks](https://img.shields.io/github/forks/GeeksXtreme/ssl-heartbleed.nse.svg)
+
+- [https://github.com/caiqiqi/OpenSSL-HeartBleed-CVE-2014-0160-PoC](https://github.com/caiqiqi/OpenSSL-HeartBleed-CVE-2014-0160-PoC) :  ![starts](https://img.shields.io/github/stars/caiqiqi/OpenSSL-HeartBleed-CVE-2014-0160-PoC.svg) ![forks](https://img.shields.io/github/forks/caiqiqi/OpenSSL-HeartBleed-CVE-2014-0160-PoC.svg)
 
 - [https://github.com/cved-sources/cve-2014-0160](https://github.com/cved-sources/cve-2014-0160) :  ![starts](https://img.shields.io/github/stars/cved-sources/cve-2014-0160.svg) ![forks](https://img.shields.io/github/forks/cved-sources/cve-2014-0160.svg)
 
