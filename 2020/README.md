@@ -5046,6 +5046,13 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/RedyOpsResearchLabs/-CVE-2020-8103-Bitdefender-Antivirus-Free-EoP](https://github.com/RedyOpsResearchLabs/-CVE-2020-8103-Bitdefender-Antivirus-Free-EoP) :  ![starts](https://img.shields.io/github/stars/RedyOpsResearchLabs/-CVE-2020-8103-Bitdefender-Antivirus-Free-EoP.svg) ![forks](https://img.shields.io/github/forks/RedyOpsResearchLabs/-CVE-2020-8103-Bitdefender-Antivirus-Free-EoP.svg)
 
+## CVE-2020-8036
+ The tok2strbuf() function in tcpdump 4.10.0-PRE-GIT was used by the SOME/IP dissector in an unsafe way.
+
+
+
+- [https://github.com/yan5ui/ENV-CVE-2020-8036](https://github.com/yan5ui/ENV-CVE-2020-8036) :  ![starts](https://img.shields.io/github/stars/yan5ui/ENV-CVE-2020-8036.svg) ![forks](https://img.shields.io/github/forks/yan5ui/ENV-CVE-2020-8036.svg)
+
 ## CVE-2020-8012
  CA Unified Infrastructure Management (Nimsoft/UIM) 20.1, 20.3.x, and 9.20 and below contains a buffer overflow vulnerability in the robot (controller) component. A remote attacker can execute arbitrary code.
 
@@ -5239,9 +5246,9 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 
 
-- [https://github.com/CQ-Tools/CVE-2020-7656-fixed](https://github.com/CQ-Tools/CVE-2020-7656-fixed) :  ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7656-fixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7656-fixed.svg)
-
 - [https://github.com/CQ-Tools/CVE-2020-7656-unfixed](https://github.com/CQ-Tools/CVE-2020-7656-unfixed) :  ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7656-unfixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7656-unfixed.svg)
+
+- [https://github.com/CQ-Tools/CVE-2020-7656-fixed](https://github.com/CQ-Tools/CVE-2020-7656-fixed) :  ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7656-fixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7656-fixed.svg)
 
 - [https://github.com/ossf-cve-benchmark/CVE-2020-7656](https://github.com/ossf-cve-benchmark/CVE-2020-7656) :  ![starts](https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-7656.svg) ![forks](https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-7656.svg)
 
@@ -7167,9 +7174,9 @@ pThe security update addresses the vulnerability by resolving the conditions whe
 
 - [https://github.com/monjheta/CVE-2020-0796](https://github.com/monjheta/CVE-2020-0796) :  ![starts](https://img.shields.io/github/stars/monjheta/CVE-2020-0796.svg) ![forks](https://img.shields.io/github/forks/monjheta/CVE-2020-0796.svg)
 
-- [https://github.com/abdullah098/CVE_2020_0796](https://github.com/abdullah098/CVE_2020_0796) :  ![starts](https://img.shields.io/github/stars/abdullah098/CVE_2020_0796.svg) ![forks](https://img.shields.io/github/forks/abdullah098/CVE_2020_0796.svg)
-
 - [https://github.com/halsten/CVE-2020-0796](https://github.com/halsten/CVE-2020-0796) :  ![starts](https://img.shields.io/github/stars/halsten/CVE-2020-0796.svg) ![forks](https://img.shields.io/github/forks/halsten/CVE-2020-0796.svg)
+
+- [https://github.com/abdullah098/CVE_2020_0796](https://github.com/abdullah098/CVE_2020_0796) :  ![starts](https://img.shields.io/github/stars/abdullah098/CVE_2020_0796.svg) ![forks](https://img.shields.io/github/forks/abdullah098/CVE_2020_0796.svg)
 
 - [https://github.com/krizzz07/CVE-2020-0796](https://github.com/krizzz07/CVE-2020-0796) :  ![starts](https://img.shields.io/github/stars/krizzz07/CVE-2020-0796.svg) ![forks](https://img.shields.io/github/forks/krizzz07/CVE-2020-0796.svg)
 
