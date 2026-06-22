@@ -71,6 +71,8 @@
 
 - [https://github.com/Danyw24/CVE-2004-1561-Icecast-Header-Overwrite-buffer-overflow-RCE-2.0.1-Win32-](https://github.com/Danyw24/CVE-2004-1561-Icecast-Header-Overwrite-buffer-overflow-RCE-2.0.1-Win32-) :  ![starts](https://img.shields.io/github/stars/Danyw24/CVE-2004-1561-Icecast-Header-Overwrite-buffer-overflow-RCE-2.0.1-Win32-.svg) ![forks](https://img.shields.io/github/forks/Danyw24/CVE-2004-1561-Icecast-Header-Overwrite-buffer-overflow-RCE-2.0.1-Win32-.svg)
 
+- [https://github.com/MonseigneurPatas/thm-ice-icecast-rce-privesc](https://github.com/MonseigneurPatas/thm-ice-icecast-rce-privesc) :  ![starts](https://img.shields.io/github/stars/MonseigneurPatas/thm-ice-icecast-rce-privesc.svg) ![forks](https://img.shields.io/github/forks/MonseigneurPatas/thm-ice-icecast-rce-privesc.svg)
+
 ## CVE-2004-1151
  Multiple buffer overflows in the (1) sys32_ni_syscall and (2) sys32_vm86_warning functions in sys_ia32.c for Linux 2.6.x may allow local attackers to modify kernel memory and gain privileges.
 
