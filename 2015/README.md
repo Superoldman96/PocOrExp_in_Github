@@ -306,9 +306,9 @@
 
 - [https://github.com/innocentx0/CVE-2015-6967-EXPLOIT](https://github.com/innocentx0/CVE-2015-6967-EXPLOIT) :  ![starts](https://img.shields.io/github/stars/innocentx0/CVE-2015-6967-EXPLOIT.svg) ![forks](https://img.shields.io/github/forks/innocentx0/CVE-2015-6967-EXPLOIT.svg)
 
-- [https://github.com/cuerv0x/CVE-2015-6967](https://github.com/cuerv0x/CVE-2015-6967) :  ![starts](https://img.shields.io/github/stars/cuerv0x/CVE-2015-6967.svg) ![forks](https://img.shields.io/github/forks/cuerv0x/CVE-2015-6967.svg)
-
 - [https://github.com/FredBrave/CVE-2015-6967](https://github.com/FredBrave/CVE-2015-6967) :  ![starts](https://img.shields.io/github/stars/FredBrave/CVE-2015-6967.svg) ![forks](https://img.shields.io/github/forks/FredBrave/CVE-2015-6967.svg)
+
+- [https://github.com/cuerv0x/CVE-2015-6967](https://github.com/cuerv0x/CVE-2015-6967) :  ![starts](https://img.shields.io/github/stars/cuerv0x/CVE-2015-6967.svg) ![forks](https://img.shields.io/github/forks/cuerv0x/CVE-2015-6967.svg)
 
 - [https://github.com/3mpir3Albert/HTB_Nibbles](https://github.com/3mpir3Albert/HTB_Nibbles) :  ![starts](https://img.shields.io/github/stars/3mpir3Albert/HTB_Nibbles.svg) ![forks](https://img.shields.io/github/forks/3mpir3Albert/HTB_Nibbles.svg)
 
@@ -602,21 +602,6 @@
 
 
 - [https://github.com/OsandaMalith/CVE-2015-4870](https://github.com/OsandaMalith/CVE-2015-4870) :  ![starts](https://img.shields.io/github/stars/OsandaMalith/CVE-2015-4870.svg) ![forks](https://img.shields.io/github/forks/OsandaMalith/CVE-2015-4870.svg)
-
-## CVE-2015-4852
- The WLS Security component in Oracle WebLogic Server 10.3.6.0, 12.1.2.0, 12.1.3.0, and 12.2.1.0 allows remote attackers to execute arbitrary commands via a crafted serialized Java object in T3 protocol traffic to TCP port 7001, related to oracle_common/modules/com.bea.core.apache.commons.collections.jar. NOTE: the scope of this CVE is limited to the WebLogic Server product.
-
-
-
-- [https://github.com/roo7break/serialator](https://github.com/roo7break/serialator) :  ![starts](https://img.shields.io/github/stars/roo7break/serialator.svg) ![forks](https://img.shields.io/github/forks/roo7break/serialator.svg)
-
-- [https://github.com/zhzhdoai/Weblogic_Vuln](https://github.com/zhzhdoai/Weblogic_Vuln) :  ![starts](https://img.shields.io/github/stars/zhzhdoai/Weblogic_Vuln.svg) ![forks](https://img.shields.io/github/forks/zhzhdoai/Weblogic_Vuln.svg)
-
-- [https://github.com/minhangxiaohui/Weblogic_direct_T3_Rces](https://github.com/minhangxiaohui/Weblogic_direct_T3_Rces) :  ![starts](https://img.shields.io/github/stars/minhangxiaohui/Weblogic_direct_T3_Rces.svg) ![forks](https://img.shields.io/github/forks/minhangxiaohui/Weblogic_direct_T3_Rces.svg)
-
-- [https://github.com/AndersonSingh/serialization-vulnerability-scanner](https://github.com/AndersonSingh/serialization-vulnerability-scanner) :  ![starts](https://img.shields.io/github/stars/AndersonSingh/serialization-vulnerability-scanner.svg) ![forks](https://img.shields.io/github/forks/AndersonSingh/serialization-vulnerability-scanner.svg)
-
-- [https://github.com/nex1less/CVE-2015-4852](https://github.com/nex1less/CVE-2015-4852) :  ![starts](https://img.shields.io/github/stars/nex1less/CVE-2015-4852.svg) ![forks](https://img.shields.io/github/forks/nex1less/CVE-2015-4852.svg)
 
 ## CVE-2015-4843
  Unspecified vulnerability in Oracle Java SE 6u101, 7u85, and 8u60, and Java SE Embedded 8u51, allows remote attackers to affect confidentiality, integrity, and availability via unknown vectors related to Libraries.
